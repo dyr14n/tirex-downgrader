@@ -30,7 +30,7 @@
 
 TiRex Downgrader automatically downloads older versions of Roblox and allows you to run multiple instances at once. Perfect for:
 
-- Running multiple accounts (future)
+- Running multiple instances
 - Downgrading and using old version
 
 ## Installation
@@ -66,7 +66,7 @@ TiRex Downgrader automatically downloads older versions of Roblox and allows you
 - Automatically extracts and installs to local storage
 - Caches versions for instant future launches
 
-### Multi-Instance Support (future)
+### Multi-Instance Support
 - Launch unlimited Roblox instances
 - Track active instances in real-time
 - Automatic cleanup when instances close
